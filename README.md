@@ -2,8 +2,8 @@
 
 This repo contains various bits and bobs relating to my GT New Horizons run
 
-**World version:** 2.6.1 (Stable)
-
+**World version:** 2.6.1 (Stable)<br/>
+**Tier:** EV<br/>
 **My playlist:** #LINK TBA#
 
 ## Current goal
