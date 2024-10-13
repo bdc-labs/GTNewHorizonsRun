@@ -1,4 +1,4 @@
-# Lynx's GTNH run repository
+# Lynx's GT New Horizons run repository
 
 This repo contains various bits and bobs relating to my GT New Horizons run
 
@@ -13,6 +13,9 @@ go to Stargate but I'm along way away from having to even make that decision.
 
 My play style is definitely suboptimal and I do play other games and other MC
 packs so I expect this to take a while.
+
+I may offer world downloads via this page when I hit certain milestones or
+simply based on time but we'll see.
 
 ## Inspiration
 
