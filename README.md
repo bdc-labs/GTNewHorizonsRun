@@ -2,7 +2,7 @@
 
 This repo contains various bits and bobs relating to my GT New Horizons run
 
-**World version:** 2.6.1 (Stable)<br/>
+**World version:** 2.7.0 (Beta 2)<br/>
 **Tier:** EV<br/>
 **My playlist:** #LINK TBA#
 
@@ -79,6 +79,14 @@ My PC specs are:
 - Nvidia RTX 4090
 - 512GB + 4TB nVME drives
 - Windows 11
+
+### Shaders and resource packs
+
+I play with `Sildur's Vibrant Shaders v1.32 Extreme` but this may change depending on
+feedback around video quality.
+
+I also play with Sphax PureBDCraft with mostly pre-made patches from the forums but I
+have made a couple of changes.
 
 ### Mod changes
 
