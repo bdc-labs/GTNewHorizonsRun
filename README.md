@@ -86,14 +86,14 @@ My PC specs are:
 I have made a few config changes some mostly for QOL and a couple for personal
 taste:
 
-#### SpecialMobs
+#### InfernalMobs
 - Disabled the Vengeance effect cause I just don't like it
 
 #### Gregtech
 - Disabled pollution, can see why some people might like it for additional
 challenge but just not for me
 - Disabled rain and lightning causing machine explosions, this is because I
-like to leave weather enabled in my void world because it's nice with DSurround
+like to leave weather enabled in my void world because it's nice ambience with DSurround
 and shaders
 
 #### Thaumcraft
