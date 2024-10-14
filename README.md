@@ -45,9 +45,10 @@ you to check them out.
 My world is running 24x7 on a dedicated machine with the following specs:
 
 - AMD Ryzen 7800X3D
-- 32GB RAM (10GB allocated to GTNH, rest is for other packs)
+- 32GB DDR5 memory (10GB allocated to GTNH, rest is for other packs)
 - 2TB nVME drive
 - World backed up hourly to my NAS
+- Fedora Linux 40
 
 I run the Java 17+ version of GTNH with GraalVM and the following launch args:
 
@@ -62,6 +63,14 @@ I am running the Client under Prism Launcher with GraalVM and the following args
 ```
 I allocate 10GB RAM to the client as I'm running a large resource pack and
 shaders
+
+My PC specs are:
+
+- AMD Ryzen 7800X3D
+- 64GB RAM DDR5 memory
+- Nvidia RTX 4090
+- 512GB + 4TB nVME drives
+- Windows 11
 
 ### Mod changes
 
