@@ -99,9 +99,9 @@ taste:
 #### Gregtech
 - Disabled pollution, can see why some people might like it for additional
 challenge but just not for me
-- Disabled rain and lightning causing machine explosions, this is because I
-like to leave weather enabled in my void world since it's nice ambience with DSurround
-and shaders
+- `machineRainExplosions=false` and `machineThunderExplosions=false` because I like to
+leave weather enabled in my void world as it makes for nice ambience with shaders and
+the DSurround mod
 
 #### Thaumcraft
 - Changed research difficulty to `-1` so I can buy research directly with aspects,
