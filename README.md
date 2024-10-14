@@ -17,6 +17,11 @@ packs so I expect this to take a while.
 I may offer world downloads via this page when I hit certain milestones or
 simply based on time but we'll see.
 
+Although I'm not committing to gate just yet here are the GTNH run rules as of the time
+this doc was written.
+
+https://docs.google.com/document/d/1Iww1FNLkCuun6s6LW7Q6_1Z1aldtxYeRxYOeq_P-vK8/edit?tab=t.0
+
 ## Inspiration
 
 I have watched both Kharax82's S2 series and Threefold's S2 series and they
@@ -78,8 +83,10 @@ My PC specs are:
 ### Mod changes
 
 - Hardcore Darkness is disabled (Just not a big fan)
-- Added Dynamic Surroundings (I like the ambience)
-- Added Zume (To replace Optifine zoom when switching to Angelica)
+- Angelica is disabled (Until it supports shaders)
+- Add Dynamic Surroundings (I like the ambience)
+- Add Zume (will replace Optifine zoom when I move to Angelica)
+- Add Optifine (Just until Angelica officially supports shaders)
 
 ### Config changes
 
@@ -93,7 +100,7 @@ taste:
 - Disabled pollution, can see why some people might like it for additional
 challenge but just not for me
 - Disabled rain and lightning causing machine explosions, this is because I
-like to leave weather enabled in my void world because it's nice ambience with DSurround
+like to leave weather enabled in my void world since it's nice ambience with DSurround
 and shaders
 
 #### Thaumcraft
@@ -111,3 +118,9 @@ and shaders
 - Controller range = 12
 - Made these changes as I'm not concerned about performance since I'm playing
 solo on a rather powerful server
+
+#### IngameInfoXML
+
+- Set `topleft=5 5`
+- Set `"scale(new)"=8`
+- Makes the display readable on my 4k monitor
