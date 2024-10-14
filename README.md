@@ -50,6 +50,9 @@ My world is running 24x7 on a dedicated machine with the following specs:
 - World backed up hourly to my NAS
 - Fedora Linux 40
 
+Server restarts daily at 06:00 AEST mostly to keep performance feeling snappy but also
+for OS patching.
+
 I run the Java 17+ version of GTNH with GraalVM and the following launch args:
 
 ```text
