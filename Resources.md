@@ -3,7 +3,7 @@
 ## Spreadsheets
 
 - [Tips & Tricks - TheShadowofX & Threefold](https://docs.google.com/spreadsheets/d/1rsB5OOAkFgJ_lzhtVzWZc2aNCSo0e6lRhJG8Po7NZtY/edit?gid=2104320957#gid=2104320957)
-- [Large Turbine Calculator](https://docs.google.com/spreadsheets/d/15qeGeniW1WiUFQ_8JnJdvCiHBM9HutpN_msiI20N1r0/edit?gid=655714366#gid=655714366)
+- [GTNH Wiki Resources](https://gtnh.miraheze.org/wiki/Quick_Links)
 
 ## Crops
 
