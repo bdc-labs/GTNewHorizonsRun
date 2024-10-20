@@ -3,14 +3,17 @@
 ## Spreadsheets
 
 - [Tips & Tricks - TheShadowofX & Threefold](https://docs.google.com/spreadsheets/d/1rsB5OOAkFgJ_lzhtVzWZc2aNCSo0e6lRhJG8Po7NZtY/edit?gid=2104320957#gid=2104320957)
-- [GTNH Wiki Resources](https://gtnh.miraheze.org/wiki/Quick_Links)
 
 ## Crops
 
 - [IC2 crops List](https://gtnh.miraheze.org/wiki/IC2_Crops_List)
 - [IC2 crop breeding calculator](https://bombcar.github.io/)
+
+
+## Other useful bits
 - [Renewable resources](https://gtnh.miraheze.org/wiki/Renewable_Resources)
 - [Thaumcraft research cheatsheet](https://gtnh.miraheze.org/wiki/Thaumcraft_Research_Cheatsheet)
+- [GTNH Wiki Resources](https://gtnh.miraheze.org/wiki/Quick_Links)
 
 ## OpenComputers
 
