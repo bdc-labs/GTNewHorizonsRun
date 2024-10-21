@@ -2,9 +2,9 @@
 
 This repo contains various bits and bobs relating to my GT New Horizons run
 
-**World version:** 2.7.0 (Beta 2)<br/>
+**World version:** 2.7.0 (Beta 3)<br/>
 **Tier:** EV<br/>
-**My playlist:** #LINK TBA#
+**Run playlist:** https://www.youtube.com/playlist?list=PL9frwGSBfRI82DXNy5mXZebMx1kzaXcUs
 
 ## Current goal
 
@@ -61,7 +61,7 @@ for OS patching.
 I run the Java 17+ version of GTNH with GraalVM and the following launch args:
 
 ```text
--Xms10G -Xmx10G -Dgraal.LoopRotation=true -Dgraal.PartialUnroll=true -Dgraal.VectorizeSIMD=true -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 @java9args.txt -jar lwjgl3ify-forgePatches.jar nogui
+-Xms10G -Xmx10G -Dgraal.LoopRotation=true -Dgraal.PartialUnroll=true -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 @java9args.txt -jar lwjgl3ify-forgePatches.jar nogui
 ```
 
 I am running the Client under Prism Launcher with GraalVM and the following args:
