@@ -82,7 +82,7 @@ My PC specs are:
 
 ### Shaders and resource packs
 
-I play with `Sildur's Vibrant Shaders v1.32 Extreme` but this may change depending on
+I play with `Complimentary Unbound` shaders but this may change depending on
 feedback around video quality.
 
 I also play with Sphax PureBDCraft with mostly pre-made patches from the forums but I
@@ -91,10 +91,8 @@ have made a couple of changes.
 ### Mod changes
 
 - Hardcore Darkness is disabled (Just not a big fan)
-- Angelica is disabled (Until it supports shaders)
 - Add Dynamic Surroundings (I like the ambience)
-- Add Zume (will replace Optifine zoom when I move to Angelica)
-- Add Optifine (Just until Angelica officially supports shaders)
+- Add Zume (To add zoom functionality)
 
 ### Config changes
 
@@ -120,12 +118,6 @@ the DSurround mod
 - Max homes = 100
 - Max claimed chunks = 1000
 - Max chunkloaded chunks = 1000
-
-#### Storage Drawers
-- Max drawers per controller = 60
-- Controller range = 12
-- Made these changes as I'm not concerned about performance since I'm playing
-solo on a rather powerful server
 
 #### IngameInfoXML
 
