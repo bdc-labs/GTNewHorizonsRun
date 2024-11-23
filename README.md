@@ -3,7 +3,7 @@
 This repo contains various bits and bobs relating to my GT New Horizons run
 
 **World version:** 2.7.0 (Beta 3)<br/>
-**Tier:** EV<br/>
+**Tier:** IV<br/>
 **Run playlist:** https://www.youtube.com/playlist?list=PL9frwGSBfRI82DXNy5mXZebMx1kzaXcUs
 
 ## Current goal
