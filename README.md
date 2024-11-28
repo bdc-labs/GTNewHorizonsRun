@@ -2,7 +2,7 @@
 
 This repo contains various bits and bobs relating to my GT New Horizons run
 
-**World version:** 2.7.0 (Beta 3)<br/>
+**World version:** 2.7.0 (RC1)<br/>
 **Tier:** IV<br/>
 **Run playlist:** https://www.youtube.com/playlist?list=PL9frwGSBfRI82DXNy5mXZebMx1kzaXcUs
 
