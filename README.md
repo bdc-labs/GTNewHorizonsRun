@@ -2,7 +2,7 @@
 
 This repo contains various bits and bobs relating to my GT New Horizons run
 
-**World version:** 2.7.0 (RC1)<br/>
+**World version:** 2.7.0<br/>
 **Tier:** IV<br/>
 **Run playlist:** https://www.youtube.com/playlist?list=PL9frwGSBfRI82DXNy5mXZebMx1kzaXcUs
 
@@ -92,7 +92,6 @@ have made a couple of changes.
 
 - Hardcore Darkness is disabled (Just not a big fan)
 - Add Dynamic Surroundings (I like the ambience)
-- Add Zume (To add zoom functionality)
 
 ### Config changes
 
