@@ -2,7 +2,7 @@
 
 This repo contains various bits and bobs relating to my GT New Horizons run
 
-**World version:** 2.7.3<br/>
+**World version:** 2.7.4<br/>
 **Tier:** IV<br/>
 **Run playlist:** https://www.youtube.com/playlist?list=PL9frwGSBfRI82DXNy5mXZebMx1kzaXcUs
 
@@ -74,7 +74,7 @@ shaders
 
 My PC specs are:
 
-- AMD Ryzen 7800X3D
+- AMD Ryzen 9800X3D
 - 64GB RAM DDR5 memory
 - Nvidia RTX 4090
 - 512GB + 4TB nVME drives
