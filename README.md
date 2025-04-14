@@ -53,7 +53,7 @@ My world is running 24x7 on a dedicated machine with the following specs:
 - 32GB DDR5 memory (10GB allocated to GTNH, rest is for other packs)
 - 2TB nVME drive
 - World backed up hourly to my NAS
-- Fedora Linux 40
+- Fedora Linux
 
 Server restarts daily at 06:00 AEST mostly to keep performance feeling snappy but also
 for OS patching.
