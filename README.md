@@ -2,7 +2,7 @@
 
 This repo contains various bits and bobs relating to my GT New Horizons run
 
-**World version:** 2.8.0<br/>
+**World version:** Daily<br/>
 **Tier:** IV<br/>
 **Run playlist:** https://www.youtube.com/playlist?list=PL9frwGSBfRI82DXNy5mXZebMx1kzaXcUs
 
@@ -70,7 +70,13 @@ I am running the Client under Prism Launcher with GraalVM and the following args
 -Dgraal.LoopRotation=true -Dgraal.PartialUnroll=true -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1
 ```
 I allocate 10GB RAM to the client as I'm running a large resource pack and
-shaders
+shaders.
+
+I have moved to the daily build and keep it updated with the gtnh-nightly-updater JAR by running the following whenever I want to update:
+
+```text
+java -jar gtnh-nightly-updater.jar -M daily -c --add -s CLIENT -m "D:\PrismLauncher\instances\Gregtech New Horizons\.minecraft"
+```
 
 My PC specs are:
 
